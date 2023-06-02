@@ -19,6 +19,9 @@ To run the code of this repository in google collab, follow these steps:
 ## Google Collab
 URL : https://colab.research.google.com/drive/1i7PdUYdq6iLKgfny7jQrHakrhnyGwuu_?usp=sharing
 
+## Credit Card Dataset
+URL : https://drive.google.com/drive/folders/1p4B5Uj71JrfbMwnFs5xDfdIh-tdM2qyw?usp=sharing
+
 
 ## Screenshots
 
