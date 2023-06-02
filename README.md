@@ -1,7 +1,7 @@
 
-![Google Collab Screenshot](./googlecollab.png)
+# ![Google Collab Screenshot](./googlecollab.png) Google Collab
 
-# Credit Card Dataset: Data Quality and Data Exploration
+# Data Quality and Data Exploration of Credit Card Dataset
 This repository contains the code and information related to data quality assessment and data exploration of a credit card dataset using machine learning techniques in Google Colab.
 
 ## Dataset
