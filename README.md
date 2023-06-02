@@ -1,5 +1,5 @@
 
-![Google Collab Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Google Collab Screenshot](./googlecollab.png)
 
 # Credit Card Dataset: Data Quality and Data Exploration
 This repository contains the code and information related to data quality assessment and data exploration of a credit card dataset using machine learning techniques in Google Colab.
@@ -23,9 +23,9 @@ URL : https://colab.research.google.com/drive/1i7PdUYdq6iLKgfny7jQrHakrhnyGwuu_?
 
 ## Screenshots
 
-![EDA  Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![EDA  Screenshot](./EDA.png)
 
-![EDA 2 Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![EDA 2 Screenshot](./EDA2.png)
 
 ## Installation
 
