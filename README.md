@@ -1,7 +1,7 @@
 ![Google Collab Screenshot](./googlecollab.png) 
 
 # Data Quality and Data Exploration of Credit Card Dataset in Google Collab
-This repository contains the code and information related to data quality assessment and data exploration of a credit card dataset using machine learning techniques in Google Colab which developed for client abhishek ganguley.
+This repository contains the code and information related to data quality assessment and data exploration of a credit card dataset using machine learning techniques in Google Colab which developed for client Abhishek Ganguly.
 
 ## Dataset
 The credit card dataset used in this project contains various features related to credit card transactions. It includes attributes such as transaction amount, transaction type, merchant information, time of transaction, and whether the transaction is fraudulent or not.
